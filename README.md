@@ -30,5 +30,5 @@ Dedico este repositório a alguém especial, cuja inspiração e criatividade im
 
 ## Stardew Valley
 <p align="center">
- <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/me2.gif"/>
+ <img src="https://github.com/victorrossh/Wonderfulhowl/blob/main/gif/me.gif"/>
 </p>
