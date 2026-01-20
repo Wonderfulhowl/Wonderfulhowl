@@ -1,4 +1,4 @@
-## Oi! Eu sou a Mari <3
+## Oi! Eu sou a Mari 🩷
 
 - 🍥Sou estudante de Desenvolvimento Web.
 - 🍥Tenho como foco Front-End e Web Design.
