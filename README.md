@@ -2,7 +2,7 @@
 
 - Sou estudante de Desenvolvimento Web.
 - Tenho como foco Front-End e Web Design.
-- Sou apaixonada por arte e tecnologia, por isso decidi unir esses dois mundos!
+- Sou apaixonada por arte e tecnologia.
 
 <div align="center">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=Wonderfulhowl&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" style="margin-right: 10px;" />
